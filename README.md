@@ -1,4 +1,4 @@
-# Jest Practice
+# Jest Practice Exercise
 
 This exercise, is about writing a few practical tests for JavaScript functions using the Jest library. String adherence to AAA pattern to make tests easier for other developers to read and understand is expected. TDD approach is expected in the practice.
 
