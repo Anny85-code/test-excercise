@@ -1,4 +1,4 @@
-const capitalize = require('./task4');
+const capitalize = require('./task4.js');
 
 describe('test capitalize function', () => {
   it('"programming" test', () => {
