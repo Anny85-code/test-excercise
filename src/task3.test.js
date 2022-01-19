@@ -1,4 +1,4 @@
-const calculator = require('./task3');
+const calculator = require('./task3.js');
 
 describe('test calculator class', () => {
   it('add test', () => {
