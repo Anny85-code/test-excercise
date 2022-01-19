@@ -1,27 +1,25 @@
-# To-do-list
+# Jest Practice
 
-> "To-do-list" is a simple web application that displays a list of task and allows you to add and remove task from that list.
-> ![todolist](https://user-images.githubusercontent.com/87186552/149173898-f295f413-936e-465c-9aee-2e1ff4f12123.png)
+This exercise, is about writing a few practical tests for JavaScript functions using the Jest library. String adherence to AAA pattern to make tests easier for other developers to read and understand is expected. TDD approach is expected in the practice.
 
 ## Built With
 
-- HTML & CSS & JavaScript
-- Html & Css linters
+- JavaScript
+- npm libraries
 
 ## Live Demo
 
-Click here [https://anny85-code.github.io/to-do-list/dist/]
+UNAVAILABLE
 
 ## Getting Started
 
 - clone the repository by running\
-   `git clone https://github.com/Anny85-code/to-do-list.git`
+   `git clone https://github.com/Anny85-code/test-excercise.git`
 - navigate to the folder\
-   `cd to-do-list`
+   `cd test-excercise`
 - Install packages\
    `npm install`
-  `webpack install`
-  `npm start`
+  `npm run watch`
 
 ## Author
 
