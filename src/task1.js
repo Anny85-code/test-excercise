@@ -1,9 +1,9 @@
 const stringLength = (str) => {
-  let count = 0;
-  for (let i = 0; i < str.length; i += 1) {
-    count += 1;
-  }
-  return count;
+  if (str.length < 1 || str.length > 10) {
+    throw new Error(
+      'the string should be at least 1 character long and not more than 10'
+    );
+  } else return str.length;
 };
 
 module.exports = stringLength;
